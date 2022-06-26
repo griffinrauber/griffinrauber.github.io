@@ -8,4 +8,6 @@ body {
 h1 {
     color: rgb(18, 107, 209);
     font-family: fantasy;
+    font-size: 30px;
+    height: 100px;
 }
