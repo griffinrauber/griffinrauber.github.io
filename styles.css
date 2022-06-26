@@ -1,9 +1,9 @@
-body {
-  background-color: powderblue;
-}
-h1 {
+head {
   color: blue;
+  font-family: sans;
+  font-size: 300%;
+  opacity: 0.8;
 }
-p {
-  color: red;
+body {
+  background-image: url("https://www.sciencenews.org/wp-content/uploads/2021/07/100-atoms_spotlight_tracks_feat-1440x700.jpg");
 }
