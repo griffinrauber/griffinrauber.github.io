@@ -2,3 +2,6 @@ body {
     background: url('https://1721181113.rsc.cdn77.org/data/images/full/35062/di-muon-neutrino-bubble-chamber-event-b-w.jpg') no-repeat center fixed;     
     background-size: cover;
 }
+p {
+    text-align: center;
+}
